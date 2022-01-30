@@ -1,0 +1,16 @@
+C:\Users\joelv\source\repos\ESTUDIANTES\bin\Debug\ESTUDIANTES.exe.config
+C:\Users\joelv\source\repos\ESTUDIANTES\bin\Debug\ESTUDIANTES.exe
+C:\Users\joelv\source\repos\ESTUDIANTES\bin\Debug\ESTUDIANTES.pdb
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.csproj.AssemblyReference.cache
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.csproj.SuggestedBindingRedirects.cache
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.Form1.resources
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.Properties.Resources.resources
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.csproj.GenerateResource.cache
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.csproj.CoreCompileInputs.cache
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.exe
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.pdb
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.Form2.resources
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.Menu.resources
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.Form3.resources
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.Form4.resources
+C:\Users\joelv\source\repos\ESTUDIANTES\obj\Debug\ESTUDIANTES.Form5.resources
